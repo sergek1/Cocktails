@@ -11,7 +11,7 @@ Dependency Injection with Koin
 
 Коктейли пользователя хранятся локально. Подтягиваем и отображаем сохраненные пользователем коктейли.
 
-<img src="screenshots/6.png" alt="cocktails" width="300"/>
+<img src="screenshots/6.jpg" alt="cocktails" width="300"/>
 
 Элементы экрана
 
@@ -27,7 +27,7 @@ Dependency Injection with Koin
 
 По нажатию на элемент списка - переход на экран детальной информации.
 
-<img src="screenshots/7.png" alt="cocktails" width="300"/>
+<img src="screenshots/7.jpg" alt="cocktails" width="300"/>
 
 Возможность добавления нового коктейля:
 
@@ -35,7 +35,7 @@ FAB с плюсиком, по нажатию - переход на экран с
 
 Если список пуст, над кнопкой добавления нового коктейля отображаем текст о возможности добавить свой первый коктейль.
 
-<img src="screenshots/1.png" alt="cocktails" width="300"/>
+<img src="screenshots/1.jpg" alt="cocktails" width="300"/>
 
 Шаринг списка коктейлей:
 
@@ -48,9 +48,9 @@ FAB с плюсиком, по нажатию - переход на экран с
 
 Хочешь попробовать?"
 
-<img src="screenshots/9.png" alt="cocktails" width="300"/>
+<img src="screenshots/9.jpg" alt="cocktails" width="300"/>
 
-<img src="screenshots/10.png" alt="cocktails" width="300"/>
+<img src="screenshots/10.jpg" alt="cocktails" width="300"/>
 
 
 ## Экран “Создание коктейля”
@@ -73,15 +73,15 @@ FAB с плюсиком, по нажатию - переход на экран с
 Пока изображение не загружено, в месте для загрузки изображения - плейсхолдер. По тапу - проверяем, есть ли у пользователя разрешение на доступ к медиа. Если нет, показать системный диалог для запроса разрешения. Если разрешение есть, давать пользователю возможность выбрать фото с устройства. 
 Фото с устройства обрезается до квадратного, берется центральная часть.
 
-<img src="screenshots/4.png" alt="cocktails" width="300"/>
+<img src="screenshots/4.jpg" alt="cocktails" width="300"/>
 
-<img src="screenshots/5.png" alt="cocktails" width="300"/>
+<img src="screenshots/5.jpg" alt="cocktails" width="300"/>
 
 Ввод ингредиентов
 
 Поле с ингредиентами представляет собой chipGroup. При тапе на “+” открывается диалог ввода ингредиента. Результат добавления сохраняется в общий список в виде нового элемента.
 
-<img src="screenshots/3.png" alt="cocktails" width="300"/>
+<img src="screenshots/3.jpg" alt="cocktails" width="300"/>
 
 Кнопка “Сохранить”
 
@@ -92,7 +92,7 @@ FAB с плюсиком, по нажатию - переход на экран с
 
 ●	В случае успеха, сохраняем данные о коктейле в список коктейлей и закрываем экран, возвращая пользователя на экран списка коктейлей с новым элементом.
 
-<img src="screenshots/2.png" alt="cocktails" width="300"/>
+<img src="screenshots/2.jpg" alt="cocktails" width="300"/>
 
 Кнопка “Отмена”
 
@@ -102,7 +102,7 @@ FAB с плюсиком, по нажатию - переход на экран с
 
 На экране можно посмотреть подробную информацию о коктейле.
 
-<img src="screenshots/8.png" alt="cocktails" width="300"/>
+<img src="screenshots/8.jpg" alt="cocktails" width="300"/>
 
 Элементы экрана
 1.	Изображение - опционально, если отсутствует - отображать плейсхолдер
