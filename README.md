@@ -1,10 +1,20 @@
 # Cocktails
 
+Ссылка на видео работающего приложения: https://disk.yandex.com/i/UlVpm6ZkRClzzw
+
+Использованные технологии и паттерны:
+
+Room
+
+Navigation Component
+
+Koin
+
 Clean Architecture
 
-Dependency Injection with Koin
+MVVM
 
-Ссылка на запись работающего приложения: https://disk.yandex.com/i/UlVpm6ZkRClzzw
+Многомодульность
 
 
 ## Экран “My Cocktails”
