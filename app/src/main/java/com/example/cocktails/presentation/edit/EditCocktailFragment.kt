@@ -174,7 +174,7 @@ class EditCocktailFragment : Fragment() {
                     if (s?.trim()?.isNotEmpty() == true) {
                         dialogBinding.tilIngredient.error = null
                     } else {
-                        dialogBinding.tilIngredient.error = "Add title"
+                        dialogBinding.tilIngredient.error = "Add ingredient"
                     }
                 }
             })
