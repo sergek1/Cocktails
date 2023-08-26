@@ -9,6 +9,7 @@
 * Clean Architecture
 * MVVM
 * Многомодульность
+* Библиотека Dhaval2404/ImagePicker
 
 
 ## Экран “My Cocktails”
