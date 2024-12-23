@@ -3,6 +3,7 @@
 Ссылка на видео работающего приложения: https://disk.yandex.com/i/UlVpm6ZkRClzzw
 
 ### Использованные технологии и паттерны:
+* Kotlin
 * Room
 * Navigation Component
 * Koin
